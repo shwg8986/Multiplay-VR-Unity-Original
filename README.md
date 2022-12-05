@@ -1,4 +1,4 @@
 # Multi-Play-VR
 
 PhotonサーバーとXR interaction toolkitを使用したマルチプレイVR環境。
-現在勉強のために作成している段階です。
+プレゼンテーションアプリの開発や, 研究に応用する予定です。
